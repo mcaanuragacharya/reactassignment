@@ -1,0 +1,116 @@
+Module 2
+-----------------------------------------------------------------------
+• What is JavaScript Output method? 
+
+Ans :-
+
+Javascript output visible in following ways
+
+innerHTML
+document.write()
+using window.alert()
+console.log() 
+
+• How to used JavaScript Output method? 
+
+Ans :- 
+
+Following is way for Output Method
+
+document.getElementById('test').innerHTML()
+document.getElementById('test').write().
+window.alert().
+console.log().
+
+• How to used JavaScript Events to do all examples? 
+
+Ans :- 
+
+We can use following events 
+
+onblue()
+onfocus()
+onChange()
+onReset()
+
+---------------------------------------------------------------------------
+Module 3
+---------------------------------------------------------------------------
+• What is React Js? 
+
+Ans :-
+
+React Js is used as a front end library.
+React Js is a Javascript Library.
+
+
+• What is NPM in React Js? 
+
+Ans :-
+
+NPM is a Package Manager , we can use as a software library.
+
+
+• What is Role of Node Js in react Js? 
+
+Ans :-
+
+We required to install Node Js to run React Js.
+NPM is installed via Node.js
+
+
+• What is CLI command In React Js? 
+
+Ans :-
+
+Command Line Interface is used to Start React JS , Install any Library.
+
+
+• What is Components in React Js? 
+
+Ans :-
+
+Library which are installed via command line and included as aLibrary is called Components.
+
+
+• What is Header and Content Components in React Js? 
+
+Ans :-
+
+Header is used to store Navbar and Content are used to show up contents.
+
+
+• How to install React Js on Windows, linux Operating System? 
+
+Ans :-
+Download Node JS from https://nodejs.org/en
+npm install -g create-react-app
+
+• How to install NPM and How to check version of NPM? 
+
+Ans :-
+npm install
+npm -v
+
+• How to check version of React Js? 
+
+Ans :-
+
+npm view react version
+
+
+
+• How to change in components of React Js? 
+
+Ans :-
+React.Component
+------------------------------------------------------------------------------
+Module 4
+------------------------------------------------------------------------------
+• Explain Life cycle in Class Component and functional component with Hooks 
+
+Ans :-
+
+Life Cycle includes Mounting , updating and unmounting.
+Constructor is first method of mounting
+UseStatea and useEffects hooks are more useful
